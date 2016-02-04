@@ -1,0 +1,422 @@
+[ 2016-01-30T02:19:55+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000156s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002906s ]
+
+[ 2016-01-30T02:20:08+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002256s ]
+
+[ 2016-01-30T02:20:12+08:00 ] 127.0.0.1 /hnustxl/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006559s ]
+
+[ 2016-01-30T02:20:13+08:00 ] 127.0.0.1 /hnustxl/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000305s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000695s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004014s ]
+
+[ 2016-01-30T02:20:13+08:00 ] 127.0.0.1 /hnustxl/assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002250s ]
+
+[ 2016-01-30T02:20:27+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001515s ]
+
+[ 2016-01-30T02:20:30+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001625s ]
+
+[ 2016-01-30T02:20:31+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002213s ]
+
+[ 2016-01-30T02:20:31+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000113s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001800s ]
+
+[ 2016-01-30T02:20:32+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+
+[ 2016-01-30T02:20:32+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002536s ]
+
+[ 2016-01-30T02:21:03+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001933s ]
+
+[ 2016-01-30T02:21:04+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002348s ]
+
+[ 2016-01-30T02:21:04+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004818s ]
+
+[ 2016-01-30T02:21:05+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+
+[ 2016-01-30T02:21:06+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+
+[ 2016-01-30T02:21:13+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+
+[ 2016-01-30T02:21:14+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002163s ]
+
+[ 2016-01-30T02:21:14+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001511s ]
+
+[ 2016-01-30T02:21:53+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001804s ]
+
+[ 2016-01-30T02:21:55+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001710s ]
+
+[ 2016-01-30T02:21:57+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002098s ]
+
+[ 2016-01-30T02:22:03+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002043s ]
+
+[ 2016-01-30T02:22:40+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002095s ]
+
+[ 2016-01-30T02:24:32+08:00 ] 127.0.0.1 /hnustxl/16.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+
+[ 2016-01-30T02:37:58+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=ceec2768cb40b6bce1ef8d504c69adc6c71ccebe&echostr=5863683881768302075&timestamp=1454092699&nonce=691052768
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004045s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:38:01+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=e370360211465b4940de18cd476a7e621665a537&echostr=691230010864824734&timestamp=1454092702&nonce=1156989555
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002776s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:38:03+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=d9eedc290da5e4e7134156d408163feb6bc69906&echostr=5204973290248731118&timestamp=1454092704&nonce=1510175016
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003464s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:38:04+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=a735bc8d3e77d6acc235854592b4e84159fc8a03&echostr=8551581690999076333&timestamp=1454092705&nonce=437259359
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002667s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:38:05+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=03e3e03050e5535ccadf8889dd541a02c669ea40&echostr=1167466176585905570&timestamp=1454092706&nonce=1367208188
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003602s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:38:08+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=4093f1f18b9d320ed9c6e07a61c7ed1a44427eeb&echostr=3972728502687349231&timestamp=1454092709&nonce=1059757922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003372s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:05+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=cd3e809ddd6385ce07f986cd26b714a07c5685b3&echostr=2272431846446839294&timestamp=1454092766&nonce=1396596904
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003309s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:06+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=b5b1e97db328e6981fddc529110f6ff4ee55f616&echostr=6838282755021730783&timestamp=1454092767&nonce=34730462
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005725s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:07+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=398c7101084e341cb17ce6f5d39359a11ac302f7&echostr=3113137485341521392&timestamp=1454092768&nonce=459710134
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003941s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:10+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=ad1330d3b964bb5432ada98d80b28c6748be222f&echostr=1201638508351716851&timestamp=1454092771&nonce=777366502
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001916s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002729s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:11+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=4678e018de81acb5f1208b5f9c506846a11ae422&echostr=2180492513372797948&timestamp=1454092772&nonce=1038176581
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003130s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:11+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=ca780f378bbc5eca4d496953eb30f5b1a95dec02&echostr=5559579851799394813&timestamp=1454092773&nonce=527747273
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003193s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:39:11+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=0238ed51876f3362d606a27df4c553200efc04fb&echostr=3698798658355704310&timestamp=1454092772&nonce=733061461
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003043s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:25+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=4143b7f4d0b8296a15133428845ee31a59291edc&echostr=8668188640023655295&timestamp=1454092846&nonce=152471064
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002600s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:26+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=f3d3b08506ce90c47dfb2f34b89b3a377b7be0ed&echostr=9054329676108904050&timestamp=1454092848&nonce=1019180724
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002868s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:27+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=de9278ff2c36c2f19bf70ceefff5c955d9abc7a9&echostr=3945640921339507321&timestamp=1454092849&nonce=1360803125
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003181s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:29+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=6989979d0351e622c28ed79eec00cbcc343d020c&echostr=8664715789619672763&timestamp=1454092850&nonce=2009973035
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001531s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005484s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:31+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=91f1d0bf890a9493dd5a9278cb0023b9a076ddff&echostr=6641111917697679229&timestamp=1454092852&nonce=2040441391
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002955s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:32+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=c7a01e1f4a4b194d90ce93b22f041743dc59b560&echostr=7147230486302818229&timestamp=1454092853&nonce=813430967
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002699s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:32+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=d7bc5051470e565cd22ee26e564804ad0caa4097&echostr=2102360693531475583&timestamp=1454092854&nonce=1986125948
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:33+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=a9bd6bd7d0ca993ccfe21bcd21a4875e3f2238f0&echostr=909089826727247806&timestamp=1454092854&nonce=20895023
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002613s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:37+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=9d082358c29fd7cc558ac89f570be69334920fa1&echostr=8475299898377093051&timestamp=1454092858&nonce=846288251
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005212s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:39+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=1de3e87be129b621ac35e6b8212779fba0058b0f&echostr=7908554314168923135&timestamp=1454092860&nonce=259522452
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002613s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:55+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=3d397df7d796e2293d6561e3ec23e3ada86a41f1&echostr=2722736026265059037&timestamp=1454092876&nonce=96488271
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004162s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:56+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=60c681945ea759284d1c0eb168215d4a82adca87&echostr=5238409915997617005&timestamp=1454092877&nonce=1043382473
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010154s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:57+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=25ac4a684db86e0b57a91e4c7b8963c65d7713fa&echostr=5496449089734947454&timestamp=1454092878&nonce=853968334
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004031s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:40:59+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=44f468eb8ad59d239d0aac7fa9408e27fb8513db&echostr=3553220651528221299&timestamp=1454092881&nonce=404541610
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:41:04+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=9ddb14c920d8d1e66f31817934dd6fa642a125f4&echostr=9122846902956586591&timestamp=1454092885&nonce=1610374627
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003096s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:41:06+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=e690e960493e41292f8ba76a441e07f218ffadbd&echostr=7476862989441430391&timestamp=1454092887&nonce=930249983
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000584s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006757s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:41:07+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=794e5d30e5df5370cf8166ab5550538345528a43&echostr=61698383503162111&timestamp=1454092888&nonce=92176825
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000090s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002909s ]
+ERR: 无法加载控制器:22
+
+[ 2016-01-30T02:41:08+08:00 ] 127.0.0.1 /hnustxl/22/weixin/weixin.php?signature=eb5b906e5700fbfb5fd308f2e09a9911fe0015f6&echostr=442946095411887710&timestamp=1454092890&nonce=696841206
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002683s ]
+ERR: 无法加载控制器:22
+

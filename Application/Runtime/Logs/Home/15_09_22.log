@@ -1,0 +1,451 @@
+[ 2015-09-22T23:29:33+08:00 ] 127.0.0.1 /hnustxl%208-31/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+
+[ 2015-09-22T23:29:33+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000796s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2015-09-22T23:29:33+08:00 ] 127.0.0.1 /hnustxl%208-31/assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+
+[ 2015-09-22T23:33:01+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-09-22T23:33:27+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+
+[ 2015-09-22T23:37:50+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0048s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0178s ]
+
+[ 2015-09-22T23:39:04+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002436s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0034s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0179s ]
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010101 ) [ RunTime:0.0159s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0046s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010101','1501010101','能源与安全工程学院','采矿工程','15采矿1班','范文杰','男','汉族','19961014','341222199610140270','安徽省阜阳太和县','共青团员','') [ RunTime:0.0091s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010102 ) [ RunTime:0.0071s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010102','1501010102','能源与安全工程学院','采矿工程','15采矿1班','刘瑞','男','汉族','19961112','372925199611121710','山东省单县','共青团员','') [ RunTime:0.0102s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010103 ) [ RunTime:0.0071s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010103','1501010103','能源与安全工程学院','采矿工程','15采矿1班','王天宇','男','汉族','19960929','372922199609299019','山东省历下区','共青团员','') [ RunTime:0.0035s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010104 ) [ RunTime:0.0032s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010104','1501010104','能源与安全工程学院','采矿工程','15采矿1班','杨雅光','男','汉族','19970128','130107199701281811','河北省石家庄市','共青团员','') [ RunTime:0.0031s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010105 ) [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010105','1501010105','能源与安全工程学院','采矿工程','15采矿1班','陈品崟','男','汉族','19970430','350783199704301515','福建省建瓯市','共青团员','') [ RunTime:0.0033s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010106 ) [ RunTime:0.0045s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010106','1501010106','能源与安全工程学院','采矿工程','15采矿1班','甄彦雨','男','汉族','19960805','130726199608053314','河北省张家口市蔚县','共青团员','') [ RunTime:0.0060s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='2' WHERE ( username=1501010107 ) [ RunTime:0.0035s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010108 ) [ RunTime:0.0059s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010108','1501010108','能源与安全工程学院','采矿工程','15采矿1班','黎细军','男','汉族','19970222','360429199702221711','江西省江西省九江市湖口县','共青团员','') [ RunTime:0.0057s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010109 ) [ RunTime:0.0031s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010109','1501010109','能源与安全工程学院','采矿工程','15采矿1班','王栋','男','汉族','19970516','513021199705163914','四川省达州市达川区','共青团员','') [ RunTime:0.0055s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 119 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010110 ) [ RunTime:0.0061s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 160 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010110','1501010110','能源与安全工程学院','采矿工程','15采矿1班','董志华','男','汉族','19980102','430223199801023832','湖南省株洲市攸县','共青团员','') [ RunTime:0.0032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001281s ]
+
+[ 2015-09-22T23:45:01+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0038s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0165s ]
+
+[ 2015-09-22T23:45:48+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001355s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0041s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0186s ]
+SQL: UPDATE `name` SET `flag`='2' WHERE ( username=1501010107 ) [ RunTime:0.0063s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010111 ) [ RunTime:0.0064s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0041s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010111','1501010111','能源与安全工程学院','采矿工程','15采矿1班','余宏','男','汉族','19971121','430921199711211755','湖南省益阳市赫山区','共青团员','') [ RunTime:0.0049s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010112 ) [ RunTime:0.0073s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010112','1501010112','能源与安全工程学院','采矿工程','15采矿1班','万幸','男','汉族','19971124','430407199711241511','湖南省衡阳市衡阳市区','共青团员','') [ RunTime:0.0040s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010113 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010113','1501010113','能源与安全工程学院','采矿工程','15采矿1班','许建平','男','汉族','19970216','431102199702164553','湖南省永州市零陵区','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010114 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010114','1501010114','能源与安全工程学院','采矿工程','15采矿1班','黄月圆','男','汉族','19960829','430723199608294814','湖南省常德市澧县','共青团员','') [ RunTime:0.0077s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010115 ) [ RunTime:0.0027s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010115','1501010115','能源与安全工程学院','采矿工程','15采矿1班','匡鹏','男','汉族','19970428','430481199704285659','湖南省衡阳市耒阳市','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010116 ) [ RunTime:0.0037s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010116','1501010116','能源与安全工程学院','采矿工程','15采矿1班','谢作为','男','汉族','19970227','430522199702275612','湖南省邵阳市新邵县','共青团员','') [ RunTime:0.0037s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010117 ) [ RunTime:0.0067s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010117','1501010117','能源与安全工程学院','采矿工程','15采矿1班','王伟成','男','汉族','19971215','430181199712153334','湖南省长沙市浏阳市','共青团员','') [ RunTime:0.0076s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010118 ) [ RunTime:0.0031s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010118','1501010118','能源与安全工程学院','采矿工程','15采矿1班','杨枭','男','汉族','19971012','420684199710125078','湖北省钟祥市','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010119 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010119','1501010119','能源与安全工程学院','采矿工程','15采矿1班','杨洪昌','男','汉族','19960530','450481199605300036','广西壮族自治区梧州市 岑溪市','群众','') [ RunTime:0.0076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001235s ]
+
+[ 2015-09-22T23:53:46+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000971s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0038s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0162s ]
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010128 ) [ RunTime:0.0031s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0063s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010128','1501010128','能源与安全工程学院','采矿工程','15采矿1班','娄一同','男','汉族','19970711','652101199707110410','新疆维吾尔自治区吐鲁番市','共青团员','') [ RunTime:0.0031s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010203 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010203','1501010203','能源与安全工程学院','采矿工程','15采矿2班','张舜','男','汉族','19980705','372922199807059016','山东省曹县','共青团员','') [ RunTime:0.0054s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010212 ) [ RunTime:0.0055s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010212','1501010212','能源与安全工程学院','采矿工程','15采矿2班','杨维','男','汉族','19970906','43112719970906793X','湖南省永州市蓝山县','共青团员','') [ RunTime:0.0032s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010220 ) [ RunTime:0.0095s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010220','1501010220','能源与安全工程学院','采矿工程','15采矿2班','牛稼政','男','汉族','19960416','622822199604164517','甘肃省环县','共青团员','') [ RunTime:0.0078s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010223 ) [ RunTime:0.0030s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010223','1501010223','能源与安全工程学院','采矿工程','15采矿2班','于海涛','男','蒙古族','19971021','150430199710211878','内蒙古自治区敖汉旗','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010225 ) [ RunTime:0.0027s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010225','1501010225','能源与安全工程学院','采矿工程','15采矿2班','付浩','男','汉族','19960309','210711199603094438','辽宁省锦州市太和区','共青团员','') [ RunTime:0.0051s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010227 ) [ RunTime:0.0055s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010227','1501010227','能源与安全工程学院','采矿工程','15采矿2班','孟益民','男','汉族','19940908','513722199409084079','新疆维吾尔自治区鄯善县','共青团员','') [ RunTime:0.0037s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010302 ) [ RunTime:0.0077s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010302','1501010302','能源与安全工程学院','采矿工程','15采矿3班','龚星威','男','苗族','19970213','50023919970213371X','重庆市黔江区冯家街道办事处','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010306 ) [ RunTime:0.0073s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010306','1501010306','能源与安全工程学院','采矿工程','15采矿3班','潘桂强','男','汉族','19960321','350321199603210314','福建省秀屿区','共青团员','') [ RunTime:0.0055s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010314 ) [ RunTime:0.0029s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010314','1501010314','能源与安全工程学院','采矿工程','15采矿3班','彭侯波','男','土家族','19970303','433130199703037510','湖南省湘西自治州龙山县','共青团员','') [ RunTime:0.0055s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010319 ) [ RunTime:0.0029s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010319','1501010319','能源与安全工程学院','采矿工程','15采矿3班','朱斌','男','汉族','19950916','610425199509160079','陕西省礼泉县','群众','') [ RunTime:0.0030s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501010321 ) [ RunTime:0.0076s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501010321','1501010321','能源与安全工程学院','采矿工程','15采矿3班','王建全','男','汉族','19960416','620422199604164337','甘肃省会宁县','共青团员','') [ RunTime:0.0030s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020108 ) [ RunTime:0.0063s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020108','1501020108','能源与安全工程学院','安全工程','15安全1班','李尚熹','男','汉族','19981016','430426199810165015','湖南省衡阳市衡阳市区','共青团员','') [ RunTime:0.0057s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020116 ) [ RunTime:0.0151s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020116','1501020116','能源与安全工程学院','安全工程','15安全1班','贾宽磊','男','汉族','19980501','152524199805015116','内蒙古自治区苏尼特右旗','共青团员','') [ RunTime:0.0031s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020211 ) [ RunTime:0.0098s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020211','1501020211','能源与安全工程学院','安全工程','15安全2班','谭宇','男','汉族','19970111','433130199701110016','湖南省湘西自治州龙山县','共青团员','') [ RunTime:0.0030s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020214 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020214','1501020214','能源与安全工程学院','安全工程','15安全2班','赵军军','男','汉族','19960424','62052419960424081X','甘肃省武山县','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020228 ) [ RunTime:0.0064s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020228','1501020228','能源与安全工程学院','安全工程','15安全2班','雷娟娟','女','汉族','19970409','610525199704092521','陕西省澄城县','共青团员','') [ RunTime:0.0093s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501030121 ) [ RunTime:0.0045s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501030121','1501030121','能源与安全工程学院','建筑环境与能源应用工程','15建环1班','张亚平','女','汉族','19970515','411303199705155920','河南省南阳市卧龙区','共青团员','') [ RunTime:0.0057s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501030127 ) [ RunTime:0.0029s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501030127','1501030127','能源与安全工程学院','建筑环境与能源应用工程','15建环1班','张策','女','汉族','19970309','220283199703090107','吉林省舒兰市','共青团员','') [ RunTime:0.0038s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501030211 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501030211','1501030211','能源与安全工程学院','建筑环境与能源应用工程','15建环2班','陈杰','男','汉族','19960325','430421199603258970','湖南省衡阳市衡阳县','共青团员','') [ RunTime:0.0030s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501030214 ) [ RunTime:0.0069s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501030214','1501030214','能源与安全工程学院','建筑环境与能源应用工程','15建环2班','杨迪','男','汉族','19970615','530381199706151310','云南省宣威市','共青团员','') [ RunTime:0.0039s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501030226 ) [ RunTime:0.0042s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501030226','1501030226','能源与安全工程学院','建筑环境与能源应用工程','15建环2班','周蕾','女','汉族','19970615','430621199706153320','湖南省岳阳市岳阳县','共青团员','') [ RunTime:0.0054s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040105 ) [ RunTime:0.0035s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040105','1501040105','能源与安全工程学院','工业工程','15工业工程1班','王振阳','男','汉族','19970609','410823199706090294','河南省焦作市武陟县','共青团员','') [ RunTime:0.0056s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040109 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040109','1501040109','能源与安全工程学院','工业工程','15工业工程1班','施代能','男','汉族','19970127','430523199701272539','湖南省邵阳市邵阳县','共青团员','') [ RunTime:0.0030s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040112 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040112','1501040112','能源与安全工程学院','工业工程','15工业工程1班','刘兵武','男','汉族','19980706','430626199807062112','湖南省岳阳市平江县','共青团员','') [ RunTime:0.0041s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040206 ) [ RunTime:0.0029s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040206','1501040206','能源与安全工程学院','工业工程','15工业工程2班','钟朗','男','汉族','19960922','510124199609220431','四川省成都市郫县','共青团员','') [ RunTime:0.0075s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040209 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040209','1501040209','能源与安全工程学院','工业工程','15工业工程2班','刘玠','男','汉族','19980115','430922199801157234','湖南省益阳市桃江县','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040211 ) [ RunTime:0.0055s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040211','1501040211','能源与安全工程学院','工业工程','15工业工程2班','王林','男','汉族','19940325','500235199403254014','湖北省夷陵区','共青团员','') [ RunTime:0.0094s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040214 ) [ RunTime:0.0056s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040214','1501040214','能源与安全工程学院','工业工程','15工业工程2班','韩军辉','男','汉族','19960312','222424199603125512','吉林省汪清县','共青团员','') [ RunTime:0.0037s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040220 ) [ RunTime:0.0055s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040220','1501040220','能源与安全工程学院','工业工程','15工业工程2班','戴璐祎','女','汉族','19970116','430624199701166367','湖南省岳阳市岳阳市区','共青团员','') [ RunTime:0.0031s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040221 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1501040221' for key 'PRIMARY'
+
+[ 2015-09-22T23:54:47+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001062s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0046s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0174s ]
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020229 ) [ RunTime:0.0079s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0050s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020229','1501020229','能源与安全工程学院','安全工程','15安全2班','李静娅','女','汉族','19951031','150105199510315127','内蒙古自治区赛罕区','共青团员','') [ RunTime:0.0098s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020309 ) [ RunTime:0.0038s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020309','1501020309','能源与安全工程学院','安全工程','15安全3班','曾文','男','汉族','19941003','432524199410034096','湖南省娄底市新化县','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501020323 ) [ RunTime:0.0078s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501020323','1501020323','能源与安全工程学院','安全工程','15安全3班','冯雪','女','汉族','19961126','510902199611261342','四川省遂宁市安居区','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040226 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040226','1501040226','能源与安全工程学院','工业工程','15工业工程2班','寇洪芳','女','土家族','19970808','422828199708081522','湖北省鹤峰县','共青团员','') [ RunTime:0.0054s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040228 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040228','1501040228','能源与安全工程学院','工业工程','15工业工程2班','李华亚','女','汉族','19970110','610322199701104240','陕西省凤翔县','共青团员','') [ RunTime:0.0028s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040317 ) [ RunTime:0.0051s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040317','1501040317','能源与安全工程学院','工业工程','15工业工程3班','陆王涵','男','汉族','19961014','310229199610143816','上海市青浦区','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040324 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040324','1501040324','能源与安全工程学院','工业工程','15工业工程3班','龙磊','女','汉族','19960810','432503199608103585','湖南省娄底市涟源市','共青团员','') [ RunTime:0.0028s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040329 ) [ RunTime:0.0051s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040329','1501040329','能源与安全工程学院','工业工程','15工业工程3班','孙硕','女','汉族','19950220','210411199502201429','吉林省朝阳区','共青团员','') [ RunTime:0.0116s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010104 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010104','1502010104','土木工程学院','土木工程（建筑工程方向）','15土木1班','王帅','男','汉族','19970706','360313199707062012','江西省江西省萍乡市湘东区','共青团员','') [ RunTime:0.0052s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010111 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010111','1502010111','土木工程学院','土木工程（建筑工程方向）','15土木1班','陈楚雄','男','汉族','19961231','430121199612316312','湖南省湘潭市雨湖区','共青团员','') [ RunTime:0.0036s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010112 ) [ RunTime:0.0054s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010112','1502010112','土木工程学院','土木工程（建筑工程方向）','15土木1班','舒帆','男','汉族','19971012','431224199710123253','湖南省怀化市溆浦县','共青团员','') [ RunTime:0.0121s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='2' WHERE ( username=1502010206 ) [ RunTime:0.0028s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010210 ) [ RunTime:0.0027s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1502010210' for key 'PRIMARY'
+
+[ 2015-09-22T23:55:58+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0037s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0161s ]
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1501040227 ) [ RunTime:0.0039s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0052s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1501040227','1501040227','能源与安全工程学院','工业工程','15工业工程2班','唐秋月','女','汉族','19950901','612425199509016546','陕西省紫阳县','共青团员','') [ RunTime:0.0054s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010132 ) [ RunTime:0.0065s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010132','1502010132','土木工程学院','土木工程（建筑工程方向）','15土木1班','严佳慧','女','汉族','19960818','640302199608182121','宁夏回族自治区吴忠市高闸派出所','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010308 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010308','1502010308','土木工程学院','土木工程（建筑工程方向）','15土木3班','余科','男','汉族','19961216','51390219961216423X','四川省资阳市简阳市','共青团员','') [ RunTime:0.0091s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010313 ) [ RunTime:0.0027s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010313','1502010313','土木工程学院','土木工程（建筑工程方向）','15土木3班','艾港明','男','汉族','19970708','430223199707081278','湖南省株洲市攸县','共青团员','') [ RunTime:0.0039s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010317 ) [ RunTime:0.0108s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010317','1502010317','土木工程学院','土木工程（建筑工程方向）','15土木3班','唐浩','男','汉族','19981212','430482199812128315','湖南省衡阳市常宁县','共青团员','') [ RunTime:0.0080s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010319 ) [ RunTime:0.0075s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010319','1502010319','土木工程学院','土木工程（建筑工程方向）','15土木3班','唐谟宁','男','汉族','19951129','430581199511296031','湖南省邵阳市邵东县','共青团员','') [ RunTime:0.0037s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010321 ) [ RunTime:0.0097s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010321','1502010321','土木工程学院','土木工程（建筑工程方向）','15土木3班','关云飞','男','汉族','19970423','420881199704231415','辽宁省大连市沙河口区','共青团员','') [ RunTime:0.0095s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010326 ) [ RunTime:0.0029s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010326','1502010326','土木工程学院','土木工程（建筑工程方向）','15土木3班','崔云鹏','男','汉族','19960310','659001199603101211','新疆维吾尔自治区石河子市','共青团员','') [ RunTime:0.0079s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010401 ) [ RunTime:0.0053s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010401','1502010401','土木工程学院','土木工程（建筑工程方向）','15土木4班','王明晖','男','汉族','19970507','460033199705073597','海南省乐东县','共青团员','') [ RunTime:0.0031s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010412 ) [ RunTime:0.0073s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010412','1502010412','土木工程学院','土木工程（建筑工程方向）','15土木4班','彭斯宁','男','汉族','19980101','432501199801017053','湖南省娄底市娄底市区','共青团员','') [ RunTime:0.0036s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010416 ) [ RunTime:0.0056s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010416','1502010416','土木工程学院','土木工程（建筑工程方向）','15土木4班','杨文俊','男','汉族','19971107','430682199711070012','湖南省岳阳市临湘市','共青团员','') [ RunTime:0.0053s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010418 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1502010418' for key 'PRIMARY'
+
+[ 2015-09-22T23:56:08+08:00 ] 127.0.0.1 /hnustxl%208-31/Pachong
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000880s ]
+SQL: SHOW COLUMNS FROM `name` [ RunTime:0.0036s ]
+SQL: SELECT `username` FROM `name` WHERE ( flag=0 )  [ RunTime:0.0174s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010427 ) [ RunTime:0.0055s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `card` [ RunTime:0.0048s ]
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010427','1502010427','土木工程学院','土木工程（建筑工程方向）','15土木4班','贾维','男','汉族','19961214','321201199612140818','江苏省高港区','共青团员','') [ RunTime:0.0028s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010505 ) [ RunTime:0.0074s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+SQL: INSERT INTO `card` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`birthplace`,`status`,`phone`) VALUES ('1502010505','1502010505','土木工程学院','土木工程（建筑工程方向）','15土木5班','彭辉','男','汉族','19960605','360425199606055818','江西省江西省九江市永修县','共青团员','') [ RunTime:0.0029s ]
+NOTIC: [2] session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 120 行.
+SQL: UPDATE `name` SET `flag`='1' WHERE ( username=1502010506 ) [ RunTime:0.0028s ]
+NOTIC: [8] Use of undefined constant card - assumed 'card' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\PachongController.class.php 第 161 行.
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1502010506' for key 'PRIMARY'
+

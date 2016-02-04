@@ -1,0 +1,81 @@
+[ 2015-12-16T14:38:43+08:00 ] 127.0.0.1 /hnustxl/admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001005s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001148s ]
+NOTIC: [8] Undefined index: wei C:\wamp\www\hnustxl\Application\Admin\Controller\BaseController.class.php 第 8 行.
+NOTIC: [8] Undefined index: flag1 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 11 行.
+NOTIC: [8] Undefined index: flag2 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Undefined index: flag3 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 13 行.
+NOTIC: [8] Undefined index: flag4 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 14 行.
+NOTIC: [8] Undefined index: flag5 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 15 行.
+NOTIC: [8] Undefined index: flag6 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 16 行.
+NOTIC: [8] Undefined index: flag7 C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 17 行.
+NOTIC: [8] Undefined index: cookieT C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 18 行.
+NOTIC: [8] Undefined index: cookieT C:\wamp\www\hnustxl\Application\Admin\Controller\IndexController.class.php 第 19 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001223s ]
+
+[ 2015-12-16T14:38:51+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+NOTIC: [8] Undefined variable: data C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 231 行.
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001118s ]
+
+[ 2015-12-16T14:39:13+08:00 ] 127.0.0.1 /hnustxl/Admin/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+
+[ 2015-12-16T14:39:13+08:00 ] 127.0.0.1 /hnustxl/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8] Undefined index: wei C:\wamp\www\hnustxl\Application\Admin\Controller\LoginController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000286s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010236s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+

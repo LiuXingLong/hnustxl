@@ -1,0 +1,555 @@
+[ 2015-10-26T00:27:08+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001569s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013246s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000852s ]
+
+[ 2015-10-26T00:27:24+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+SQL: SHOW COLUMNS FROM `useradmin` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `useradmin` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `useradmin` LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-10-26T01:07:14+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000959s ]
+NOTIC: [8] Use of undefined constant add - assumed 'add' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 45 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013963s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-10-26T01:07:15+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/delete1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000988s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+NOTIC: [8] Use of undefined constant delete1 - assumed 'delete1' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 87 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000696s ]
+
+[ 2015-10-26T01:07:16+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/backstage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+NOTIC: [8] Use of undefined constant backstage - assumed 'backstage' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 71 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000225s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000998s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001191s ]
+
+[ 2015-10-26T01:07:16+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/reception.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+NOTIC: [8] Use of undefined constant reception - assumed 'reception' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 197 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2015-10-26T01:07:17+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001156s ]
+
+[ 2015-10-26T01:07:19+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000554s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000646s ]
+
+[ 2015-10-26T01:07:42+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+NOTIC: [8] Undefined index: gg C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 166 行.
+NOTIC: [8] Undefined index: username2 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `info` WHERE `username` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 174 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000666s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2015-10-26T01:07:44+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000645s ]
+
+[ 2015-10-26T01:07:49+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8] Undefined offset: 1 C:\wamp\www\hnustxl\Application\Admin\Controller\TableController.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 C:\wamp\www\hnustxl\Application\Admin\Controller\TableController.class.php 第 127 行.
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017374s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000727s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2015-10-26T01:07:55+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0044s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013956s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2015-10-26T01:07:57+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001697s ]
+NOTIC: [8] Undefined index: gg C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 166 行.
+NOTIC: [8] Undefined index: username2 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `info` WHERE `username` = null  [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 174 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000223s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001236s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001416s ]
+
+[ 2015-10-26T01:07:58+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0035s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000112s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000551s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000644s ]
+
+[ 2015-10-26T01:07:59+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035609s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2015-10-26T01:08:00+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0037s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000653s ]
+
+[ 2015-10-26T01:08:01+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000154s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019068s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000770s ]
+
+[ 2015-10-26T01:08:02+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016333s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000581s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-10-26T01:08:02+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000557s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+
+[ 2015-10-26T01:08:04+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/grade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003526s ]
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 111 行.
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = null LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = null LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant grade - assumed 'grade' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 121 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 100 行.
+NOTIC: [8] Undefined index: username1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 107 行.
+NOTIC: [8] Undefined index: name1 C:\wamp\www\hnustxl\Application\Runtime\Cache\Admin\6d082c568bd01dcaa985e035187d3f7b.php 第 110 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013322s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-10-26T01:08:05+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001582s ]
+NOTIC: [8] Undefined index: gg C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 166 行.
+NOTIC: [8] Undefined index: username2 C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 169 行.
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `info` WHERE `username` = null  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 174 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-10-26T01:08:06+08:00 ] 127.0.0.1 /hnustxl/Admin/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl\Application\Admin\Controller\ShowController.class.php 第 232 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000271s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000566s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2015-10-26T01:08:09+08:00 ] 127.0.0.1 /hnustxl/Admin/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+
+[ 2015-10-26T01:08:09+08:00 ] 127.0.0.1 /hnustxl/Admin/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+NOTIC: [8] Undefined index: wei C:\wamp\www\hnustxl\Application\Admin\Controller\LoginController.class.php 第 7 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009593s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001564s ]
+

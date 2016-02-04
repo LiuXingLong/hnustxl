@@ -1,0 +1,1131 @@
+[ 2015-08-31T00:27:40+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000979s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000649s ]
+
+[ 2015-08-31T00:27:47+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-31T00:28:26+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000906s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0015s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0013s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0016s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0012s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0009s ]
+
+[ 2015-08-31T00:28:51+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0042s ]
+SQL: select *from user where username=1355010127 [ RunTime:0.0004s ]
+SQL: UPDATE `user` SET `cnt`='500',`time`='2015-08-31' WHERE ( username=1355010127 ) [ RunTime:0.0103s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0042s ]
+SQL: select password from info where username=1355010127 [ RunTime:0.0004s ]
+
+[ 2015-08-31T00:28:51+08:00 ] 127.0.0.1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `table` WHERE ( username=1355010127 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000226s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-08-31T00:32:52+08:00 ] 127.0.0.1 /Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000968s ]
+
+[ 2015-08-31T00:32:57+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+
+[ 2015-08-31T00:33:12+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0041s ]
+SQL: select *from user where username=1355010127 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0041s ]
+SQL: select password from info where username=1355010127 [ RunTime:0.0003s ]
+
+[ 2015-08-31T01:02:34+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000791s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0041s ]
+SQL: select *from user where username=1355010127 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0041s ]
+SQL: select password from info where username=1355010127 [ RunTime:0.0003s ]
+
+[ 2015-08-31T01:02:34+08:00 ] 127.0.0.1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000777s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `table` WHERE ( username=1355010127 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000740s ]
+
+[ 2015-08-31T01:02:39+08:00 ] 127.0.0.1 /Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+
+[ 2015-08-31T01:02:39+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000935s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009808s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000604s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000699s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2015-08-31T01:03:06+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0042s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1401010212' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','大学英语(1)','80','3.5','1','1') [ RunTime:0.0106s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','测量学','82','2','2','1') [ RunTime:0.0048s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','地质学基础','71','2','3','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','地质实习','良','1','4','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','大学生心理健康教育与指导','良','2','5','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','大学体育(1)','80','1','6','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','军事理论','良','1','7','1') [ RunTime:0.0025s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','高等数学A(1)','95','5','8','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','思想道德修养与法律基础','78','3','9','1') [ RunTime:0.0035s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','军事技能训练','及格','1','10','1') [ RunTime:0.0025s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-1','画法几何及工程制图A','89','4','11','1') [ RunTime:0.0026s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','地球与行星科学','优','1.5','12','1') [ RunTime:0.0027s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','自动化与两型社会建设','中','1.5','13','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','C语言程序设计A','92','2.5','14','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','普通物理学实验A(1)','优','1','15','1') [ RunTime:0.0052s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','测量实习A','及格','1','16','1') [ RunTime:0.0051s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','C语言程序设计A实验','良','1','17','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','普通物理学A(1)','86','3.5','18','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','高等数学A(2)','82','6','19','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','大学体育(2)','83','1','20','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','大学英语(2)','67','4','21','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','金工实习B','中','2','22','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1401010212','廖泽锋','2014-2015-2','中国近现代史纲要','86','2','23','1') [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0044s ]
+SQL: select *from user where username=1401010212 [ RunTime:0.0005s ]
+SQL: INSERT INTO `user` (`username`,`password`,`time`,`ip`,`flag`,`cnt`,`count`) VALUES ('1401010212','1401010212','2015-08-31','127.0.0.1','0','2','2') [ RunTime:0.0057s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0046s ]
+SQL: select password from info where username=1401010212 [ RunTime:0.0003s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\Application\Home\Controller\InfoController.class.php 第 53 行.
+SQL: INSERT INTO `info` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`Birthplace`,`Status`,`phone`) VALUES ('1401010212','1401010212','能源与安全工程学院','采矿工程','14采矿2班','廖泽锋','男','汉族','1996-11-30','430381199611301917','湖南省湘潭市湘乡市','共青团员','13574075907') [ RunTime:0.0111s ]
+
+[ 2015-08-31T01:03:06+08:00 ] 127.0.0.1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001060s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `table` WHERE ( username=1401010212 )  [ RunTime:0.0006s ]
+SQL: INSERT INTO `table` (`t1`,`t2`,`t3`,`t4`,`t5`,`t6`,`t7`,`t8`,`t9`,`t10`,`t11`,`t12`,`t13`,`t14`,`t15`,`t16`,`t17`,`t18`,`t19`,`t20`,`t21`,`t22`,`t23`,`t24`,`t25`,`t26`,`t27`,`t28`,`t29`,`t30`,`t31`,`t32`,`t33`,`t34`,`t35`,`note`,`username`) VALUES ('理论力学B<br/><font title=\'老师\'>罗红花</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-16(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼103</font><br/>','大学英语(3)<font color=\"red\">★</font><br/><font title=\'老师\'>陈立志</font><br/><font title=\'周次(节次)\'>14采矿[1-2]班<br/>1-12(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼402</font><br/>------------------------------<br>大学英语实践(1)<br/><font title=\'老师\'>陈立志</font><br/><font title=\'周次(节次)\'>14采矿[1-2]班<br/>13-16(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼402</font><br/>','线性代数B<br/><font title=\'老师\'>王海华</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-8(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼301</font><br/>','理论力学B<br/><font title=\'老师\'>罗红花</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-16(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼103</font><br/>','普通物理学A(2)<br/><font title=\'老师\'>黄锋</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-14(全部)[01-02节]</font><br/><font title=\'教室\'>四教一合班</font><br/>','&nbsp;','&nbsp;','电工与电子学B<br/><font title=\'老师\'>李小花</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-18(全部)[03-04节]</font><br/><font title=\'教室\'>第五教学楼101</font><br/>','&nbsp;','形势与政策<br/><font title=\'老师\'>张新笛</font><br/><font title=\'周次(节次)\'>14工业工程[1-3]班,14采矿[1-4]班<br/>13(全部)[03-04节]</font><br/><font title=\'教室\'>第五教学楼2-1</font><br/>','&nbsp;','大学体育(3)<br/><font title=\'老师\'>石湘华</font><br/><font title=\'周次(节次)\'>14安全2班,14采矿2班<br/>1-12(全部)[03-04节]</font><br/><font title=\'教室\'>体育场(南)1</font><br/>------------------------------<br>电工与电子学B<br/><font title=\'老师\'>李小花</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>15-18(全部)[03-04节]</font><br/><font title=\'教室\'>第五教学楼101</font><br/>','&nbsp;','&nbsp;','普通物理学实验A(2)<br/><font title=\'老师\'>刘旺东</font><br/><font title=\'周次(节次)\'>14安全[1-4]班,14采矿[1-4]班,14工程力学[1-2]班<br/>11-15(全部)[05-06-07-08节]</font><br/><font title=\'教室\'>四教学楼2楼</font><br/>','&nbsp;','普通物理学A(2)<br/><font title=\'老师\'>黄锋</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-14(全部)[05-06节]</font><br/><font title=\'教室\'>四教一合班</font><br/>','电工与电子学B<br/><font title=\'老师\'>李小花</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-18(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼103</font><br/>','线性代数B<br/><font title=\'老师\'>王海华</font><br/><font title=\'周次(节次)\'>14采矿[1-4]班<br/>1-8(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼109</font><br/>','&nbsp;','&nbsp;','普通物理学实验A(2)<br/><font title=\'老师\'>刘旺东</font><br/><font title=\'周次(节次)\'>14安全[1-4]班,14采矿[1-4]班,14工程力学[1-2]班<br/>11-15(全部)[05-06-07-08节]</font><br/><font title=\'教室\'>四教学楼2楼</font><br/>','马克思主义基本原理概论<font color=\"red\">★</font><br/><font title=\'老师\'>李连根</font><br/><font title=\'周次(节次)\'>14公共管理[1-2]班,14采矿[1-4]班<br/>1-18(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼2-2</font><br/>','大学英语(3)<font color=\"red\">★</font><br/><font title=\'老师\'>陈立志</font><br/><font title=\'周次(节次)\'>14采矿[1-2]班<br/>1-12(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼101</font><br/>','&nbsp;','马克思主义基本原理概论<font color=\"red\">★</font><br/><font title=\'老师\'>李连根</font><br/><font title=\'周次(节次)\'>14公共管理[1-2]班,14采矿[1-4]班<br/>1-6(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼2-2</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;大学英语实践(1)  陈立志  13-16周;电工与电子学实验B  李小花  1-15周;普通物理学实验A(2)  刘旺东  11-15周;&nbsp;标注★的为学位课程','1401010212') [ RunTime:0.0048s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009524s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2015-08-31T01:03:10+08:00 ] 127.0.0.1 /Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+
+[ 2015-08-31T01:03:10+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000205s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000726s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000817s ]
+
+[ 2015-08-31T01:05:26+08:00 ] 127.0.0.1 /Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+
+[ 2015-08-31T01:05:34+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0014s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0047s ]
+SQL: select *from user where username=1355010127 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0047s ]
+SQL: select password from info where username=1355010127 [ RunTime:0.0003s ]
+
+[ 2015-08-31T01:05:54+08:00 ] 127.0.0.1 /Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+
+[ 2015-08-31T01:25:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2015-08-31T21:34:22+08:00 ] 127.0.0.1 /hnustxl%208-31/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001356s ]
+
+[ 2015-08-31T21:34:22+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030035s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001232s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001378s ]
+
+[ 2015-08-31T21:34:22+08:00 ] 127.0.0.1 /hnustxl%208-31/assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2015-08-31T21:35:01+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0079s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1305020318' ) LIMIT 1   [ RunTime:0.0115s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','军事技能训练','优','1','1','1') [ RunTime:0.0163s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','计算机导论','及格','1','2','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','大学体育(1)','85','1','3','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','大学英语(1)','70','3.5','4','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','大学生心理健康教育与指导','良','2','5','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','高等数学A(1)','32','5','6','0') [ RunTime:0.0052s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','军事理论','优','1','7','1') [ RunTime:0.0042s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','程序设计实验','中','1','8','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','高等数学A(1)','25','5','9','0') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','C语言课程设计','中','2','10','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','思想道德修养与法律基础','82','3','11','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','离散数学','60','4.5','12','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','C语言程序设计','64','3','13','1') [ RunTime:0.0031s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','普通物理学B(1)','45','2.5','14','0') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','电路与电子学实验','良','1','15','1') [ RunTime:0.0039s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','数据结构课程设计A','优','2','16','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','中国近现代史纲要','77','2','17','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','美国刑事司法制度','中','1.5','18','1') [ RunTime:0.0037s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','大学英语(2)','67','4','19','1') [ RunTime:0.0031s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','电路与电子学','13','3.5','20','0') [ RunTime:0.0040s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','数据结构A','60','5','21','1') [ RunTime:0.0076s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','数字逻辑与数字系统','7','3.5','22','0') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','高等数学A(2)','60','6','23','1') [ RunTime:0.0075s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','数字逻辑与数字系统','75','3.5','24','1') [ RunTime:0.0095s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','数据结构A','34','5','25','0') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','普通物理学B(1)','47','2.5','26','0') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','大学体育(2)','84','1','27','1') [ RunTime:0.0080s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','高等数学A(2)','38','6','28','0') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','概率论与数理统计B','50','2.5','29','0') [ RunTime:0.0076s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','数字系统设计A','69','2.5','30','1') [ RunTime:0.0073s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','数据库系统A','70','3','31','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','普通物理学B(1)','69','2.5','32','1') [ RunTime:0.0057s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','面向对象程序设计A','60','3','33','1') [ RunTime:0.0040s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','高等数学A(1)','60','5','34','1') [ RunTime:0.0027s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','Java程序设计','67','2.5','35','1') [ RunTime:0.0038s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','网络工程认识实习','优','1','36','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','计算机组成原理与接口技术A','79','5','37','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','普通物理学实验B','优','1','38','1') [ RunTime:0.0047s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','概率论与数理统计B','27','2.5','39','0') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','大学体育(3)','90','1','40','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','普通物理学B(2)','69','2.5','41','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','大学英语(3)','68','3','42','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','马克思主义基本原理概论','73','3','43','1') [ RunTime:0.0043s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','计算机组成原理与接口技术课程设计','中','2','44','1') [ RunTime:0.0076s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','线性代数B','69','2','45','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-1','高等数学A(1)','43','5','46','0') [ RunTime:0.0223s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-1','面向对象程序设计A','38','3','47','0') [ RunTime:0.0052s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','电路与电子学','48','3.5','48','0') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','数据通信技术','71','3','49','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','大学英语(4)','80','2.5','50','1') [ RunTime:0.0052s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','操作系统课程设计','中','2','51','1') [ RunTime:0.0058s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','毛泽东思想和中国特色社会主义理论体系概论','69','6','52','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','数据库系统课程设计','良','2','53','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','操作系统','72','4','54','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','大学体育(4)','74','1','55','1') [ RunTime:0.0053s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','环境.个人.可持续发展','及格','1.5','56','1') [ RunTime:0.0041s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2013-2014-2','电路与电子学','80','3.5','57','1') [ RunTime:0.0037s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305020318','崔俊','2014-2015-2','名师课堂-水资源开发','中','1.5','58','1') [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0065s ]
+SQL: select *from user where username=1305020318 [ RunTime:0.0010s ]
+SQL: INSERT INTO `user` (`username`,`password`,`time`,`ip`,`flag`,`cnt`,`count`) VALUES ('1305020318','140314','2015-08-31','127.0.0.1','0','2','2') [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0057s ]
+SQL: select password from info where username=1305020318 [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\InfoController.class.php 第 53 行.
+SQL: INSERT INTO `info` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`Birthplace`,`Status`,`phone`) VALUES ('1305020318','140314','计算机科学与工程学院','网络工程','13网络3班','崔俊','男','汉族','1993-11-14','210311199311140314','辽宁省鞍山市立山区','共青团员','15197187787') [ RunTime:0.0065s ]
+
+[ 2015-08-31T21:35:03+08:00 ] 127.0.0.1 /hnustxl%208-31/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `table` WHERE ( username=1305020318 )  [ RunTime:0.0017s ]
+SQL: INSERT INTO `table` (`t1`,`t2`,`t3`,`t4`,`t5`,`t6`,`t7`,`t8`,`t9`,`t10`,`t11`,`t12`,`t13`,`t14`,`t15`,`t16`,`t17`,`t18`,`t19`,`t20`,`t21`,`t22`,`t23`,`t24`,`t25`,`t26`,`t27`,`t28`,`t29`,`t30`,`t31`,`t32`,`t33`,`t34`,`t35`,`note`,`username`) VALUES ('&nbsp;','计算机网络B<br/><font title=\'老师\'>文宏</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-14(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼413</font><br/>','综合布线<font color=\"red\">★</font><br/><font title=\'老师\'>黄力</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-6(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼2-3</font><br/>------------------------------<br>智能终端系统及应用开发<br/><font title=\'老师\'>唐兵</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>7-14(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼2-3</font><br/>','计算机网络B<br/><font title=\'老师\'>文宏</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-14(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼301</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','IT行业资格认证考试辅导B<br/><font title=\'老师\'>唐兵</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-8(全部)[03-04节]</font><br/><font title=\'教室\'>四教五合班</font><br/>','&nbsp;','&nbsp;','计算机网络B<br/><font title=\'老师\'>文宏</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>11-14(全部)[03-04节]</font><br/><font title=\'教室\'>第五教学楼301</font><br/>','&nbsp;','&nbsp;','综合布线<font color=\"red\">★</font><br/><font title=\'老师\'>黄力</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-6(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼203</font><br/>','形势与政策<br/><font title=\'老师\'>曾治国</font><br/><font title=\'周次(节次)\'>13网络[1-3]班,13计算机[1-5]班,13信息安全[1-3]班,13物联[1-2]班<br/>5(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼2-3</font><br/>','软件工程A<br/><font title=\'老师\'>余建勇</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-12(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼413</font><br/>','IT行业资格认证考试辅导B<br/><font title=\'老师\'>唐兵</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-8(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼2-2</font><br/>','&nbsp;','&nbsp;','&nbsp;','智能终端系统及应用开发<br/><font title=\'老师\'>唐兵</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>7-14(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼2-3</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','软件工程A<br/><font title=\'老师\'>余建勇</font><br/><font title=\'周次(节次)\'>13网络[1-3]班<br/>1-12(全部)[09-10节]</font><br/><font title=\'教室\'>第五教学楼201</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;计算机网络B课程设计  念其锋  17-18周;智能终端系统及应用开发课程设计  张黎  15-16周;&nbsp;标注★的为学位课程','1305020318') [ RunTime:0.0083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000147s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000350s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002939s ]
+
+[ 2015-08-31T21:35:04+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `table` WHERE ( username=1305020318 )  [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2015-08-31T21:35:12+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/school.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000875s ]
+NOTIC: [8] Use of undefined constant school - assumed 'school' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000159s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000372s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017756s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000919s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001101s ]
+
+[ 2015-08-31T21:35:14+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001602s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `info` WHERE `username` = 1305020318  [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001263s ]
+
+[ 2015-08-31T21:35:22+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 0,9   [ RunTime:0.0025s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001110s ]
+
+[ 2015-08-31T21:35:28+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001508s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 9,9   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000157s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000366s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019078s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019245s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001454s ]
+
+[ 2015-08-31T21:35:29+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 18,9   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000173s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000400s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001019s ]
+
+[ 2015-08-31T21:35:31+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0057s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 36,9   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000366s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018412s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002789s ]
+
+[ 2015-08-31T21:35:33+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 18,9   [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015255s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000874s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000985s ]
+
+[ 2015-08-31T21:35:37+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/7.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002132s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 54,9   [ RunTime:0.0026s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000229s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000924s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001037s ]
+
+[ 2015-08-31T21:35:39+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index/p/5.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 36,9   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000399s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000981s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2015-08-31T21:35:41+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/jwjz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0079s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = 1305020318 LIMIT 0,8   [ RunTime:0.0040s ]
+NOTIC: [8] Use of undefined constant jwjz - assumed 'jwjz' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000232s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001616s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001852s ]
+
+[ 2015-08-31T21:35:58+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001681s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `table` WHERE ( username=1305020318 )  [ RunTime:0.0021s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016623s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001130s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001322s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001451s ]
+
+[ 2015-08-31T21:41:18+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/school.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+NOTIC: [8] Use of undefined constant school - assumed 'school' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001041s ]
+
+[ 2015-08-31T21:41:19+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `info` WHERE `username` = 1305020318  [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000145s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012686s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000875s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+
+[ 2015-08-31T21:41:21+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1305020318 LIMIT 0,9   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002579s ]
+
+[ 2015-08-31T21:41:22+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/jwjz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001833s ]
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = 1305020318 LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = 1305020318 LIMIT 0,8   [ RunTime:0.0045s ]
+NOTIC: [8] Use of undefined constant jwjz - assumed 'jwjz' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019913s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001946s ]
+
+[ 2015-08-31T21:41:36+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+
+[ 2015-08-31T21:41:36+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000221s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011092s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000938s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2015-08-31T23:11:42+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001747s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\LoginController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-31T23:16:12+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002440s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\LoginController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000353s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009447s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001349s ]
+
+[ 2015-08-31T23:16:24+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001748s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\LoginController.class.php 第 49 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021877s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+
+[ 2015-08-31T23:16:44+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1355010127' ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT `name` FROM `grade` WHERE ( username='1355010127' and id=1 )  [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0055s ]
+SQL: select *from user where username=1355010127 [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0052s ]
+SQL: select password from info where username=1355010127 [ RunTime:0.0004s ]
+
+[ 2015-08-31T23:16:45+08:00 ] 127.0.0.1 /hnustxl%208-31/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006693s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `table` WHERE ( username=1355010127 )  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000148s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001419s ]
+
+[ 2015-08-31T23:16:50+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0162s ]
+SQL: SELECT * FROM `table` WHERE ( username=1355010127 )  [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001211s ]
+
+[ 2015-08-31T23:17:09+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/school.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Use of undefined constant school - assumed 'school' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000379s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000726s ]
+
+[ 2015-08-31T23:17:14+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/info.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `info` WHERE `username` = 1355010127  [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 43 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013334s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000705s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2015-08-31T23:17:23+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE `username` = 1355010127 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `grade` WHERE `username` = 1355010127 LIMIT 0,9   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013546s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001223s ]
+
+[ 2015-08-31T23:17:24+08:00 ] 127.0.0.1 /hnustxl%208-31/Show/jwjz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+SQL: SHOW COLUMNS FROM `gradejz` [ RunTime:0.0061s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `gradejz` WHERE `username` = 1355010127 LIMIT 1   [ RunTime:0.0035s ]
+SQL: SELECT * FROM `gradejz` WHERE `username` = 1355010127 LIMIT 0,8   [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant jwjz - assumed 'jwjz' C:\wamp\www\hnustxl 8-31\Application\Home\Controller\ShowController.class.php 第 34 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000160s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2015-08-31T23:18:00+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/logout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000828s ]
+
+[ 2015-08-31T23:18:00+08:00 ] 127.0.0.1 /hnustxl%208-31/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000861s ]
+

@@ -1,0 +1,447 @@
+[ 2015-08-30T10:05:31+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+
+[ 2015-08-30T10:05:31+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000612s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000658s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2015-08-30T10:05:32+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001193s ]
+
+[ 2015-08-30T11:56:46+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2015-08-30T15:56:50+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001172s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001287s ]
+
+[ 2015-08-30T15:56:50+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000342s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014611s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001136s ]
+
+[ 2015-08-30T16:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2015-08-30T16:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2015-08-30T16:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2015-08-30T16:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2015-08-30T16:16:57+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2015-08-30T16:16:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+
+[ 2015-08-30T16:16:58+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-08-30T16:16:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2015-08-30T16:29:02+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+
+[ 2015-08-30T16:29:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2015-08-30T16:29:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2015-08-30T16:29:03+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2015-08-30T16:29:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001309s ]
+
+[ 2015-08-30T16:29:03+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001560s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000591s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000681s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2015-08-30T16:29:04+08:00 ] 127.0.0.1 /assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+
+[ 2015-08-30T19:25:10+08:00 ] 127.0.0.1 /Student
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+
+[ 2015-08-30T19:25:11+08:00 ] 127.0.0.1 /assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000723s ]
+
+[ 2015-08-30T19:25:11+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000783s ]
+
+[ 2015-08-30T19:25:12+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2015-08-30T19:25:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-08-30T19:25:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2015-08-30T19:25:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2015-08-30T19:25:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+
+[ 2015-08-30T19:25:16+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2015-08-30T19:27:24+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+
+[ 2015-08-30T19:27:24+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000254s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000615s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001025s ]
+
+[ 2015-08-30T19:27:26+08:00 ] 127.0.0.1 /assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2015-08-30T19:27:52+08:00 ] 127.0.0.1 /Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\Application\Home\Controller\LoginController.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `grade` [ RunTime:0.0296s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `grade` WHERE ( username='1305040226' ) LIMIT 1   [ RunTime:0.0118s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','计算机导论','中','1','1','1') [ RunTime:0.0131s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','高等数学A(1)','91','5','2','1') [ RunTime:0.0057s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','军事技能训练','及格','1','3','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','大学体育(1)','85','1','4','1') [ RunTime:0.0055s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','大学英语(1)','86','3.5','5','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','军事理论','优','1','6','1') [ RunTime:0.0057s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','大学体育(2)','90','1','7','1') [ RunTime:0.0058s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','大学生心理健康教育与指导','优','2','8','1') [ RunTime:0.0059s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','思想道德修养与法律基础','85','3','9','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','程序设计实验','良','1','10','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','C语言程序设计','97','3','11','1') [ RunTime:0.0056s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-1','离散数学','94','4.5','12','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','C语言课程设计','优','2','13','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','普通物理学B(1)','91','2.5','14','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','周易哲学与人生智慧','中','1.5','15','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','中国近现代史纲要','82','2','16','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','数据结构A','97','5','17','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','电路与电子学实验','优','1','18','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','大学英语(2)','79','4','19','1') [ RunTime:0.0031s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','高等数学A(2)','98','6','20','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','数据结构课程设计A','优','2','21','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','数字逻辑与数字系统','98','3.5','22','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2013-2014-2','电路与电子学','96','3.5','23','1') [ RunTime:0.0032s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','数据库系统A','90','3','24','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','Java程序设计','92','2.5','25','1') [ RunTime:0.0057s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','马克思主义基本原理概论','85','3','26','1') [ RunTime:0.0051s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','计算机组成原理与接口技术A','97','5','27','1') [ RunTime:0.0080s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','普通物理学实验B','优','1','28','1') [ RunTime:0.0054s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','计算机组成原理与接口技术课程设计','优','2','29','1') [ RunTime:0.0059s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','物联网工程认识实习','优','1','30','1') [ RunTime:0.0076s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','生命教育','良','1.5','31','1') [ RunTime:0.0059s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','概率论与数理统计B','85','2.5','32','1') [ RunTime:0.0076s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','大学体育(3)','86','1','33','1') [ RunTime:0.0079s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','面向对象程序设计A','95','3','34','1') [ RunTime:0.0058s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','大学英语(3)','84','3','35','1') [ RunTime:0.0077s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','传感器原理及应用','85','3','36','1') [ RunTime:0.0034s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','线性代数B','95','2','37','1') [ RunTime:0.0030s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-1','普通物理学B(2)','82','2.5','38','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','操作系统课程设计','中','2','39','1') [ RunTime:0.0033s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','操作系统','94','4','40','1') [ RunTime:0.0027s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','大学英语(4)','80','2.5','41','1') [ RunTime:0.0043s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','数据库系统课程设计','优','2','42','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','心理学与生活','优','1.5','43','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','毛泽东思想和中国特色社会主义理论体系概论','76','6','44','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','大学体育(4)','94','1','45','1') [ RunTime:0.0029s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','数据通信技术','90','3','46','1') [ RunTime:0.0028s ]
+SQL: INSERT INTO `grade` (`username`,`name`,`time`,`subject`,`score`,`xuefen`,`id`,`flag`) VALUES ('1305040226','曹慧琳','2014-2015-2','创业技能学','中','1.5','47','1') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0061s ]
+SQL: select *from user where username=1305040226 [ RunTime:0.0009s ]
+SQL: INSERT INTO `user` (`username`,`password`,`time`,`ip`,`flag`,`cnt`,`count`) VALUES ('1305040226','021268','2015-08-30','127.0.0.1','0','2','2') [ RunTime:0.0056s ]
+SQL: SHOW COLUMNS FROM `info` [ RunTime:0.0073s ]
+SQL: select password from info where username=1305040226 [ RunTime:0.0011s ]
+NOTIC: [8] Use of undefined constant info - assumed 'info' C:\wamp\www\Application\Home\Controller\InfoController.class.php 第 53 行.
+SQL: INSERT INTO `info` (`username`,`password`,`institute`,`specialty`,`class`,`name`,`sex`,`ethnic`,`time`,`id`,`Birthplace`,`Status`,`phone`) VALUES ('1305040226','021268','计算机科学与工程学院','物联网工程','13物联2班','曹慧琳','女','汉族','19950902','142402199509021268','山西省晋中市介休市','共青团员','15173266529') [ RunTime:0.0089s ]
+
+[ 2015-08-30T19:27:53+08:00 ] 127.0.0.1 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000833s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `table` WHERE ( username=1305040226 )  [ RunTime:0.0014s ]
+SQL: INSERT INTO `table` (`t1`,`t2`,`t3`,`t4`,`t5`,`t6`,`t7`,`t8`,`t9`,`t10`,`t11`,`t12`,`t13`,`t14`,`t15`,`t16`,`t17`,`t18`,`t19`,`t20`,`t21`,`t22`,`t23`,`t24`,`t25`,`t26`,`t27`,`t28`,`t29`,`t30`,`t31`,`t32`,`t33`,`t34`,`t35`,`note`,`username`) VALUES ('&nbsp;','数据仓库与数据挖掘<br/><font title=\'老师\'>姜磊</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>5-14(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼401</font><br/>','&nbsp;','计算机网络B<br/><font title=\'老师\'>黄卫红</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>1-14(全部)[01-02节]</font><br/><font title=\'教室\'>第五教学楼401</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','IT行业资格认证考试辅导D <br/><font title=\'老师\'>彭献武</font><br/><font title=\'周次(节次)\'>13信息安全[1-3]班,13物联[1-2]班<br/>1-8(全部)[03-04节]</font><br/><font title=\'教室\'>第五教学楼2-1</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','计算机网络B<br/><font title=\'老师\'>黄卫红</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>1-4(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼106</font><br/>','形势与政策<br/><font title=\'老师\'>曾治国</font><br/><font title=\'周次(节次)\'>13网络[1-3]班,13计算机[1-5]班,13信息安全[1-3]班,13物联[1-2]班<br/>5(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼2-3</font><br/>','&nbsp;','&nbsp;','软件工程A<br/><font title=\'老师\'>刘毅志</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>1-12(全部)[05-06节]</font><br/><font title=\'教室\'>第五教学楼301</font><br/>','&nbsp;','&nbsp;','IT行业资格认证考试辅导D <br/><font title=\'老师\'>彭献武</font><br/><font title=\'周次(节次)\'>13信息安全[1-3]班,13物联[1-2]班<br/>1-8(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼2-1</font><br/>','计算机网络B<br/><font title=\'老师\'>黄卫红</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>1-14(全部)[07-08节]</font><br/><font title=\'教室\'>第五教学楼202</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;','&nbsp;','智能终端系统及应用开发<br/><font title=\'老师\'>石林</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>7-14(全部)[09-10节]</font><br/><font title=\'教室\'>第五教学楼306</font><br/>','软件工程A<br/><font title=\'老师\'>刘毅志</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>1-12(全部)[09-10节]</font><br/><font title=\'教室\'>第五教学楼305</font><br/>','智能终端系统及应用开发<br/><font title=\'老师\'>石林</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>7-14(全部)[09-10节]</font><br/><font title=\'教室\'>第五教学楼106</font><br/>','数据仓库与数据挖掘<br/><font title=\'老师\'>姜磊</font><br/><font title=\'周次(节次)\'>13物联[1-2]班<br/>5-14(全部)[09-10节]</font><br/><font title=\'教室\'>第五教学楼202</font><br/>','&nbsp;','&nbsp;','&nbsp;','&nbsp;计算机网络B课程设计  彭献武  17-18周;智能终端系统及应用开发课程设计  莫尚丰  15-16周;&nbsp;标注★的为学位课程','1305040226') [ RunTime:0.0078s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000132s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000354s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2015-08-30T19:27:57+08:00 ] 127.0.0.1 /Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `table` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `table` WHERE ( username=1305040226 )  [ RunTime:0.0014s ]
+NOTIC: [8] Use of undefined constant table - assumed 'table' C:\wamp\www\Application\Home\Controller\ShowController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000224s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012566s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012688s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000577s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2015-08-30T19:27:57+08:00 ] 127.0.0.1 /Show/table.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000851s ]
+
+[ 2015-08-30T19:27:58+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000596s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000661s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2015-08-30T19:27:59+08:00 ] 127.0.0.1 /Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000809s ]
+
