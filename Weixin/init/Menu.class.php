@@ -1,5 +1,6 @@
 <?php
 include_once 'Token.php';
+define("ROOTURL","http://loveme1234567.oicp.net/hnustxl");
 class Menu {
 	private $access_token;
 	public function Menu($access_token) {
@@ -48,31 +49,31 @@ class Menu {
                 {
                     "type": "view", 
                     "name": "查看用户", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/index?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/index?wei=1", 
                     "key": "101"
                 }, 
                 {
                     "type": "view", 
                     "name": "添加用户", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/add?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/add?wei=1", 
                     "key": "102"
                 }, 
                 {
                     "type": "view", 
                     "name": "删除用户", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/delete1?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/delete1?wei=1", 
                     "key": "103"
                 }, 
                 {
                     "type": "view", 
                     "name": "后台管理", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/backstage?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/backstage?wei=1", 
                     "key": "104"
                 }, 
                 {
                     "type": "view", 
                     "name": "前台管理", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/reception?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/reception?wei=1", 
                     "key": "105"
                 }
             ]
@@ -83,13 +84,13 @@ class Menu {
                 {
                     "type": "view", 
                     "name": "课表查询", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/index?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/index?wei=1", 
                     "key": "201"
                 },
                 {
                     "type": "view", 
                     "name": "成绩查询", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/grade?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/grade?wei=1", 
                     "key": "202"
                 },
                 {
@@ -100,7 +101,7 @@ class Menu {
                 {
                     "type": "view", 
                     "name": "信息查询", 
-                    "url": "http://loveme1234567.oicp.net/hnustxl/admin/show/info?wei=1", 
+                    "url": '.'"'.ROOTURL.'/admin/show/info?wei=1", 
                     "key": "204"
                 },
                 {

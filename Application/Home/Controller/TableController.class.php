@@ -24,13 +24,13 @@ class TableController extends BaseController{
     	  	
     	curl_setopt($ch,CURLOPT_POST,1);
     	curl_setopt($ch,CURLOPT_COOKIE,session('cookie'));    	   	
-    	$time="2015-2016-1";   	
+    	$time="2015-2016-2";   	
     	$name=urlencode(session('name'));     	
     	$postData = "type=xs0101&isview=1&zc=&xnxq01id=".$time."&xs0101xm=".$name."&xs0101id=".session('username')."&sfFD=1";
     	curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);	
     	$table=curl_exec($ch);
     	curl_close($ch);
-    	
+
     	$data=array();
     	
     	$pattern='/(?:"kbcontent".{10,600}<\/div>|red;">.{1,})/';

@@ -132,6 +132,10 @@ class ScoreController extends Controller{
 			$page=substr($page[0][0],9,strlen($page[0][0])-11);
 			//var_dump($page);
 			
+			if(empty($page)){
+				$page=1;
+			}
+			
 			$Grade=M('grade');
 			$count=$Grade->where("username='%s'",$post["username"])->count();// 查询满足条件的总记录数
 			

@@ -135,24 +135,21 @@ class TableController extends BaseController{
     	curl_setopt($ch,CURLOPT_COOKIE,$cookie);
     	curl_setopt($ch,CURLOPT_POST,1);
     	
-    	$time="2015-2016-2";
+    	$time=$post['time'];
     	$postData = "type=xs0101&isview=1&zc=&xnxq01id=".$time."&xs0101xm=&xs0101id=".$post['username']."&sfFD=1";
     	curl_setopt($ch, CURLOPT_POSTFIELDS, $postData);  	
 		$table = curl_exec($ch);
     	curl_close($ch);
-    	
     	if(strrpos($table,"用户没有登录，请重新登录！")||strrpos($table,"您登录后过长时间没有操作或您的用户名已经在别处登录！")){
     		// cookieT  失效
     		return 0;
     	}else{
     		$pattern='/nt(?:"|" )>.{1,}</';
     		preg_match_all($pattern,$table,$out);
-    		
     		// var_dump($out);
     		// $pattern='/(?:nt"|nt" |br)>.{1,80}title=\'老/';  //	课程
     		// $pattern='/\/>.{1,18}\(/';    				//	周次
-    		// $pattern='/室\'>.{1,30}<\/font>/';     	            教室
-    		
+    		// $pattern='/室\'>.{1,30}<\/font>/';     	            教室    		
     		$pattern='/(?:nt"|nt" |br)>.{1,80}title=\'老|\/>.{1,18}\(|室\'>.{1,30}<\/font>/';
     		$count=count($out[0]);  
     		if($count<1) return 0;
@@ -164,8 +161,11 @@ class TableController extends BaseController{
     		$data[5][0]="星期五";
     		$data[6][0]="星期六";
     		$data[7][0]="星期日";
-    		for($i=0,$k=1,$fg=1;$i<$count;$i++,$k++,$fg++){
-    			preg_match_all($pattern,$out[0][$i],$out1);
+    		for($i=0,$k=1,$fg=1;$i<$count;$i+=2,$k++,$fg++){    			
+    			preg_match_all($pattern,$out[0][$i],$out1);    			   			
+    			/**
+    			 * 将一行数据提取出来！
+    			 */
     			if(!empty($out1[0])){
     				$cont=count($out1[0]);
     				for($j=0;$j<$cont;$j++){
@@ -191,7 +191,7 @@ class TableController extends BaseController{
     						$out2[$k][]=substr($str,$start,$len)."周";
     					}else{
     						$out2[$k][]=substr($str,$start,$len);
-    					}
+    					}	
     				}
     			}else{
     				$out2[$k]=null;
@@ -203,8 +203,8 @@ class TableController extends BaseController{
     				$data['7'][$k/7]=$out2[$k];
     			}else{
     				$data[$k%7][$k/7+1]=$out2[$k];
-    			}
-    		}
+    			}   			
+    		} 
     		$pattern='/red;">&.{1,};/';
     		preg_match_all($pattern,$table,$note);
     		$data[7]['note']=substr($note[0][0],6);

@@ -1,0 +1,85 @@
+[ 2016-02-18T13:41:09+08:00 ] 127.0.0.1 /hnustxl/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003861s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000677s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001097s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002362s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002640s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004116s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004504s ]
+
+[ 2016-02-18T13:41:10+08:00 ] 127.0.0.1 /hnustxl/assets/ico/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001430s ]
+
+[ 2016-02-18T13:42:34+08:00 ] 127.0.0.1 /hnustxl/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005480s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl\Application\Home\Controller\LoginController.class.php 第 50 行.
+NOTIC: [8] Undefined variable: cookieStr C:\wamp\www\hnustxl\Application\Home\Controller\ScoreController.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 1 C:\wamp\www\hnustxl\Application\Home\Controller\ScoreController.class.php 第 58 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000783s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003292s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003784s ]
+
+[ 2016-02-18T13:42:53+08:00 ] 127.0.0.1 /hnustxl/Login/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000797s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002416s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002891s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003256s ]
+
+[ 2016-02-18T13:44:20+08:00 ] 127.0.0.1 /hnustxl/Login/Login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006797s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' C:\wamp\www\hnustxl\Application\Home\Controller\LoginController.class.php 第 50 行.
+NOTIC: [8] Undefined variable: cookieStr C:\wamp\www\hnustxl\Application\Home\Controller\ScoreController.class.php 第 56 行.
+NOTIC: [8] Undefined offset: 1 C:\wamp\www\hnustxl\Application\Home\Controller\ScoreController.class.php 第 58 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000312s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002509s ]
+
