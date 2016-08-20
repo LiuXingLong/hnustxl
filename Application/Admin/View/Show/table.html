@@ -21,7 +21,9 @@
 	}
   </style>
   <script>
-  var year = new Date().getFullYear();
+  var data = new Date();
+  var year = data.getFullYear();
+  var month = data.getMonth()+1;
   $(function(){
 	  $("a").click(function(){				 
 		 var value=$(this).attr("value");    
@@ -34,10 +36,18 @@
 		  var time = $('select option:selected').text();
 		  setCookie("time",time[time.length-1]);   
 	  });
-	  if(getCookie("time")=="2"){
-		  $("select").html("<option >"+year+"-"+(year+1)+"-1</option><option selected='selected'>"+(year-1)+"-"+year+"-2</option>");
+	  if(month>=7){
+		  if(getCookie("time")=="2"){
+			  $("select").html("<option >"+year+"-"+(year+1)+"-1</option><option selected='selected'>"+(year-1)+"-"+year+"-2</option>");
+		  }else{
+			  $("select").html("<option >"+year+"-"+(year+1)+"-1</option><option>"+(year-1)+"-"+year+"-2</option>"); 
+		  }
 	  }else{
-		  $("select").html("<option >"+year+"-"+(year+1)+"-1</option><option>"+(year-1)+"-"+year+"-2</option>"); 
+		  if(getCookie("time")=="1"){
+			  $("select").html("<option >"+(year-1)+"-"+year+"-2</option><option selected='selected'>"+(year-1)+"-"+year+"-1</option>"); 
+		  }else{
+			  $("select").html("<option >"+(year-1)+"-"+year+"-2</option><option>"+(year-1)+"-"+year+"-1</option>"); 
+		  }		  
 	  } 
   });
   function setCookie(name,value){ 
